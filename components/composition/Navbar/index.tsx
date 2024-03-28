@@ -80,8 +80,8 @@ export function Navbar() {
               <ListItem href="/docs" title="Pintura">
                 Faça aqui uma simulação para pintar interior ou exterior.
               </ListItem>
-              <ListItem href="/docs/installation" title="Installation">
-                How to install dependencies and structure your app.
+              <ListItem href="/docs/installation" title="Pladur">
+                Tectos e paredes falsas com o melhor acabamento.
               </ListItem>
               <ListItem href="/docs/primitives/typography" title="Typography">
                 Styles for headings, paragraphs, lists...etc
