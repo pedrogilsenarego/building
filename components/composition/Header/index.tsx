@@ -1,7 +1,6 @@
 import { Navbar } from "../Navbar";
 import Logo from "./Logo";
-
-import RequestBudgetBtn from "./requestBudgetBtn";
+import RequestBudgetBtn from "./RequestBudgetBtn";
 
 const Header = () => {
   return (
